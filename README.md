@@ -1,4 +1,4 @@
-# Gestion de Stock avec SQLAlchemy
+# Gestion de Stock avec SQLAlchemy (App céer par Woody Belony)
 
 Ce projet est une application Python permettant de gérer un système de stock, en utilisant SQLAlchemy pour l'accès à la base de données. Il inclut des modèles pour **Produits**, **Fournisseurs** et **Mouvements d'inventaire**.
 
